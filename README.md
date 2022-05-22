@@ -10,7 +10,7 @@ Guys, the "chromedriver" file I have here works for M1 Mac. If you are rocking l
 - Run main.py. 
 
 You have to update the course feedback link and run everytime. 
-You are welcome to automate that part as well but I am too lazy. 
+You are welcome to automate that part as well. I am too lazy. 
 :D 
 
 
